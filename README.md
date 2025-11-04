@@ -4,7 +4,7 @@ The app includes a **Contact Form** with JavaScript validation and a **Dynamic T
  
  ---
 
-## 🚀 Features
+## Features
 - **Contact Form**:
   - Enter name, email, and message  
   - JavaScript validation for required fields and correct email format  
@@ -19,14 +19,14 @@ The app includes a **Contact Form** with JavaScript validation and a **Dynamic T
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **HTML** – Structure of the web app  
 - **CSS** – Styling, layout, and responsive design  
 - **JavaScript** – Functionality, form validation, and DOM manipulation  
 
 ---
 
-## 📂 How to Run
+##  How to Run
 1. Clone or download this repository.  
 2. Open the `task2.html` file in your web browser.  
 3. Test the Contact Form and To-Do List features.  
@@ -34,5 +34,5 @@ The app includes a **Contact Form** with JavaScript validation and a **Dynamic T
 
 ---
 
-## ✨ Author
+## Author
 **Abhinav T**
